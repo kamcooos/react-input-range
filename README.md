@@ -9,7 +9,7 @@ A CodePen demo is available [here](http://codepen.io/davidchin/full/GpNvqw/).
 
 ## Installation
 
-1. Install `react-input-range` using npm (or [yarn]). `npm install  @gollum-ts/react-input-range`
+1. Install `react-input-range` using npm (or [yarn]). `npm install  @kamcooos/react-input-range`
 2. Import `react-input-range` to use `InputRange` component.
 3. Optionally, import `react-input-range/lib/css/index.css` if you want to apply the default styling.
 
